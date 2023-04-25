@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "amatic";
+  src: url("/fonts/Amatic_SC/AmaticSC-Regular.ttf");
+}
+
+@font-face {
+  font-family: "amatic-bold";
+  src: url("/fonts/Amatic_SC/AmaticSC-Bold.ttf");
+}
+
+@font-face {
+  font-family: "special-elite";
+  src: url("/fonts/Special_Elite/SpecialElite-Regular.ttf");
+}
+
+.input-solicitud {
+  font-size: 11px;
+}
+
+.my-header {
+  background: #ffc300;
+}

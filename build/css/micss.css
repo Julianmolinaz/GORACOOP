@@ -1,0 +1,85 @@
+/*quitar las flechas del input number*/
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.list-tilte-cliente {
+    width: 40%;
+}
+
+.linea {
+    margin: 0px 0px 11px 0px;
+}
+
+.title-section {
+    padding: 6px 12px 4px 12px;
+    background: #ffc30066;
+    -webkit-box-shadow: 10px 10px 24px -5px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 10px 10px 24px -5px rgba(0, 0, 0, 0.15);
+    box-shadow: 10px 10px 24px -5px rgba(0, 0, 0, 0.15);
+}
+
+.txt-small {
+    font-size: 11px;
+}
+
+.marg-bott-small {
+    margin-bottom: 6px;
+}
+
+.input-small {
+    height: 23px;
+    padding: 1px 5px 0px 7px;
+    font-size: 11px;
+}
+
+.btn-small {
+    margin-bottom: 0px;
+    height: 27px;
+    padding: 2px 0px 0px 0px;
+}
+
+.td-small {
+    font-size: 11px;
+    padding: 3px;
+}
+
+.progress {
+    width: 100%;
+}
+
+.tbl_min>td {
+    font-size: 10px;
+    padding: 0px 8px !important;
+}
+
+.li_min {
+    padding: 8px 4px;
+    font-size: 10px;
+}
+
+.badget {
+    font-size: 10px;
+    padding: 2px 7px;
+}
+
+.min {
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.top-min {
+    margin-bottom: 4px;
+}
+
+.resaltar {
+    text-decoration: underline;
+    font-weight: bold;
+}
